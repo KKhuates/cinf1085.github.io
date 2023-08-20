@@ -1,0 +1,39 @@
+= Caricaturas
+
+Las caricaturas han evolucionado a lo largo de los siglos. Desde sus orígenes en Italia en el siglo XV, pasando por su auge en Inglaterra y Francia en los siglos XVIII y XIX, hasta su consolidación como medio de entretenimiento y crítica social en el siglo XX. Algunos hitos importantes son el debut de Mickey Mouse en 1928 y la popularización de los dibujos animados japoneses (anime) en todo el mundo en la década de 1990. Las caricaturas han inspirado a muchos artistas y han influido en la cultura popular.
+
+== Comparación entre caricaturas antiguas y nuevas
+
+[cols="3*^", options="header"]
+|===
+| Característica | Caricaturas antiguas | Caricaturas nuevas
+| Estilo | Creatividad con personajes y tramas únicas | Enfoque en realismo 3D
+| Tecnología | Dibujos a mano en blanco y negro | Computadoras para crear caricaturas a todo color
+| Temática | Moraleja para enseñar a los niños | Lucha y movimientos llamativos
+|===
+
+== Top 10 caricaturas más vistas en la historia
+
+. Frozen (2013)
+. The Lion King (1994)
+. Ratatouille (2007)
+. Coco (2017)
+. Shrek (2001)
+. Mulan (1998)
+. Tangled (2010)
+. Inside Out (2015)
+
+== Imagen
+
+image::https://camo.githubusercontent.com/3ef9dee8eed80661c0f01daf9038d629bac5c1a6ad062dd5d39070c26fd62e5a/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e65613861623839613634663737363833336339343137333166633237363137663f72696b3d52414266366a77704233734c7477267069643d496d6752617726723d30[Imagen]
+
+== Bloque de código
+
+[source,python]
+----
+print("Muy buenas las caricaturas")
+----
+
+== Enlace
+
+Para obtener más información, visite link:https://diferenciaentre.es/caricatura/
